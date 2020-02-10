@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steven Clark, Erstwhile Lab Manager, Launches Site"
+title: "Steven Clark, Lab Manager, Launches Site"
 date: 2014-04-30
 ---
 
