@@ -5,4 +5,5 @@ I enjoy building systems, instruments for research, and helping folks learn abou
 ## Work Experience
 
 Currently Semi-Retired
+
 Previously a Core Lecturer in Electrical Engineering @ Stanford University
